@@ -1,0 +1,12 @@
+START 
+
+--- Create virtualenv
+--- Install dependencies from requirements.txt
+--- Create db
+--- Configurate local_settings.py using example
+--- Migrate
+--- Run server
+
+USE
+
+--- You can test endpoints using api.http, if you use VSCode and have REST Client extension
